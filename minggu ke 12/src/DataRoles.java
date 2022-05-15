@@ -1,5 +1,5 @@
 /*
- * Practice #10 - Programming Technique Assert
+ * Practice #12 - Programming Technique Assert
  *  
  * 
  * In this exercise, we will learn about assert statement (Java assertions) using several codes below as a case.
